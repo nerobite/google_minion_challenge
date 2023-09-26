@@ -77,7 +77,3 @@ def solution(n, b):
 
 a = solution(210022, 3)
 print(a)
-
-# b =  subtraction_with_conditions(222, 222, 3)
-# print(b)
-
