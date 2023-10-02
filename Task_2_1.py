@@ -26,7 +26,7 @@ would return 3, since iterating on 102212 would return to 210111 when done in ba
  """
 n = 1211
 b = 10
-def solution(n, b):
+def solution(n: int, b: int)-> int:
     spisok = []
     spisok2 =[]
     p1 = []
